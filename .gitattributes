@@ -1,0 +1,20 @@
+* text=auto
+
+# Keep source and the Unix launcher portable across Windows and CI.
+*.java text eol=lf
+*.kt text eol=lf
+*.kts text eol=lf
+*.properties text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+*.ps1 text eol=crlf
+
+*.png binary
+*.gif binary
+*.jar binary
+*.nbt binary

@@ -1,0 +1,9 @@
+{
+  "entity.strongerwanderer.phantom": "Warden Projection",
+  "skill.strongerwanderer.lion_claw": "Lion’s Claw",
+  "skill.strongerwanderer.followup_claw": "Follow-up Claw",
+  "skill.strongerwanderer.gravity_leap": "Gravity Leap",
+  "skill.strongerwanderer.forward_phantoms": "Forward Phantoms",
+  "skill.strongerwanderer.side_phantoms": "Side Phantoms",
+  "death.attack.strongerwanderer.arm_strike": "%1$s was crushed by %2$s"
+}

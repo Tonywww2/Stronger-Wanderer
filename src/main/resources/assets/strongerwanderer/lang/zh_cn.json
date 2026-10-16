@@ -1,0 +1,9 @@
+{
+  "entity.strongerwanderer.phantom": "坚守者幻影",
+  "skill.strongerwanderer.lion_claw": "狮子斩",
+  "skill.strongerwanderer.followup_claw": "追加狮子斩",
+  "skill.strongerwanderer.gravity_leap": "重力劈跃",
+  "skill.strongerwanderer.forward_phantoms": "正向连续幻影突进",
+  "skill.strongerwanderer.side_phantoms": "侧向幻影突进",
+  "death.attack.strongerwanderer.arm_strike": "%1$s 被 %2$s 击碎了"
+}

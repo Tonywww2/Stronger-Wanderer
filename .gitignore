@@ -1,0 +1,65 @@
+# Gradle / Stonecutter / compiler output
+.gradle/
+.kotlin/
+build/
+out/
+/bin/
+/versions/*/bin/
+*.class
+
+# IDE and workspace-local settings
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+*.iml
+*.ipr
+*.iws
+
+# Minecraft development instances and recording output
+run/
+runs/
+logs/
+crash-reports/
+/showcase/
+/screenshots/
+/replay_recordings/
+
+# Packaged builds; keep the Gradle Wrapper required to build the project
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.zip
+*.7z
+*.rar
+
+# Local credentials / machine configuration
+.env
+.env.*
+!.env.example
+local.properties
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+
+# Diagnostics, temporary files and editor backups
+/tmp/
+/temp/
+*.log
+*.hprof
+*.heapdump
+*.jfr
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
